@@ -1,4 +1,4 @@
-## Muito prazer, me chamo Gabriel Gimenes sou Desenvolvedor e tester 
+## Muito prazer, me chamo Gabriel Gimenes sou Desenvolvedor JR.
 
 ### Formas de contato 
 
