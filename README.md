@@ -1,7 +1,10 @@
 ## Muito prazer, me chamo Gabriel Gimenes sou Desenvolvedor JR.
 
-### Formas de contato 
+## 📫 Contato
 
+[![Email](https://img.shields.io/badge/Email-gimenesgabriel732%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimenesgabriel732@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20de%20Melo%20Gimenes-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-melo-gimenes-165601235/)
 [![blog](	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white/)](https://www.instagram.com/gimenes_biel)
 
 ![Biel-Gimenes GitHub stats](https://github-readme-stats.vercel.app/api?username=Biel-Gimenes&show_icons=true&theme=tokyonight)
