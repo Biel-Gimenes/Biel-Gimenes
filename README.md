@@ -3,7 +3,7 @@
 Olá! Muito prazer, me chamo **Gabriel Gimenes** 👋
 Sou **Desenvolvedor Júnior** focado em **JavaScript e Node.js**, com experiência em **testes de software, desenvolvimento de chatbots e consumo de APIs**.
 
-Atualmente busco evoluir cada vez mais na área de **desenvolvimento backend e automação**, aplicando boas práticas de código e versionamento.
+Atualmente busco evoluir cada vez mais na área de **desenvolvimento Front-end e automação**, aplicando boas práticas de código e versionamento.
 
 ---
 
