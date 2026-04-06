@@ -7,7 +7,7 @@
 Formando em **Análise e Desenvolvimento de Sistemas** pela Faculdade Anhanguera.
 Busco minha primeira oportunidade para colocar em prática meus conhecimentos e crescer como desenvolvedor.
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-portfolio--junior--three.vercel.app-646CFF?style=for-the-badge)](https://portfolio-junior-three.vercel.app/#home)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfólio-Acesse%20aqui-646CFF?style=for-the-badge)](http://portfolio-junior-biel-gimenes-projects.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-gimenesgabriel732%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimenesgabriel732@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabriel%20Gimenes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-melo-gimenes-165601235/)
 [![Instagram](https://img.shields.io/badge/Instagram-gimenes__biel-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gimenes_biel)
